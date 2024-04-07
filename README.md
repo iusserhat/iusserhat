@@ -1,4 +1,4 @@
- [![MasterHead](https://i.pinimg.com/564x/c0/4f/50/c04f50655f21a805c92bd8dda5f18bad.jpg)
+ ![MasterHead](https://i.pinimg.com/564x/c0/4f/50/c04f50655f21a805c92bd8dda5f18bad.jpg)
 <h1 align="center">Hi 👋, I'm Serhat</h1>
 <h3 align="center">A passionate blockchain developer from Turkey</h3>
 
